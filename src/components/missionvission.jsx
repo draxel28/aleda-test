@@ -2,7 +2,7 @@ export default function Mission() {
   return (
     <section
       id="mission-vision"
-      className="relative bg-gradient-to-b from-white to-indigo-50 py-20"
+      className="relative bg-gradient-to-b from-white via-indigo-50 to-white py-20"
     >
       <div className="max-w-6xl mx-auto px-6 text-center">
         <h3 className="text-3xl font-bold mb-4">Our Mission & Vision</h3>

@@ -5,7 +5,7 @@ export default function About() {
   return (
     <section
       id="about"
-      className="relative bg-gradient-to-b from-white to-indigo-50 py-20"
+      className="relative bg-gradient-to-b from-white via-indigo-50 to-white py-20"
     >
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
         {/* Left Content */}
